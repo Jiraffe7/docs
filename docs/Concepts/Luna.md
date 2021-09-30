@@ -4,7 +4,7 @@
 
 Luna is the native staking token recognized by the Terra protocol. Through its role in collateralizing the mechanisms that secure the price-stability of Terra stablecoins and modulate the incentives of validators, Luna serves as a foundational asset for the entire Terra network and ecosystem.
 
-## Staking Rewards
+## Staking rewards
 
 The primary function of Luna is to protect the integrity of Terra mechanisms by locking value within the Terra ecosystem through staking.
 
