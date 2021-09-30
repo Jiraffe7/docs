@@ -227,14 +227,9 @@ module.exports = {
         },
       ],
       "/": [
-          {
-          title: "Overview",
-          children: [
-          "/history-and-changes",
-          "/migration-guide",
-          ],
-          collapsable: false,
-          },
+        ["/", "Overview"],
+      "/history-and-changes",
+      "/migration-guide",
         ],
       },
   },
