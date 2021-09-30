@@ -1,4 +1,6 @@
-# Stablecoin
+# Terra stablecoins
+
+Terra stablecoins are algorithmic stablecoins that track the price of various fiat currencies. Users can spend, save, trade, or exchange Terra stablecoins instantly.
 
 ## Price Stabilization
 
